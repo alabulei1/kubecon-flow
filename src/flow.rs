@@ -25,41 +25,41 @@ pub fn run(s: String) -> Result<String, String> {
     let now = Utc::now().timestamp();
 
     let info = [(
-        1666623609,
+        1666458000,
         "Welcome + Opening Remarks - Kate Goldenring, Senior Software Engineer, Fermyon Technologies, Inc. ",
         "Room 310 A",
         "https://cloudnativewasmdayna22.sched.com/event/1AUD4?iframe=no",
     ),
     (
-        1666624500,
+        1666458300,
         "Keynote: The Path to Components - Luke Wagner, Distinguished Engineer, 
 Fastly ",
         "Room 310 A",
         "https://sched.co/1AUD7"
     ),
     (
-        1666626600,
+        1666458600,
         "Keynote: WebAssembly Development is Easy - Matt Butcher, CEO & Radu Matei, 
 CTO, Fermyon Technologies, Inc.",
         "Room 310 A",
         "https://sched.co/1AUDA"
     ),
     (
-        1666627200,
+        1666458900,
         "Keynote: Wasm: A Revolution for Browsers, Containers, and the Cloud - 
 Justin Cormack, Chief Technology Officer, Docker",
         "Room 310 A",
         "https://cloudnativewasmdayna22.sched.com/event/1AUDD/"
     ),
     (
-        1666627800,
+        1666459200,
         "The JVM Meets WASI: Writing Cloud-Friendly Wasm Apps Using Java and Friends 
 - Joel Dice, Fermyon Technologies, Inc.",
         "Room 310 A",
         "https://cloudnativewasmdayna22.sched.com/event/1AUDG/"
     ),
     (
-        1666629600,
+        1666459500,
         "Coffee Break",
         "Room 310 A",
         "https://cloudnativewasmdayna22.sched.com/event/1AUDJ/"
